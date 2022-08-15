@@ -1,0 +1,1 @@
+First Day Text. Written in vim
